@@ -1,0 +1,15 @@
+html {
+  margin: 0;
+  font-family: 'Nunito', sans-serif;
+  color: white;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  background: #121523;;
+}
+
+body.disable-scroll {
+  overflow: hidden;
+}
